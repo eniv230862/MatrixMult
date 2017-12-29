@@ -1,3 +1,9 @@
+/* Matrix multiplication using both single thread and multithreading.
+ * The purpose is to compare the speed of each system.
+ *
+ * Author: Enrique Izaguirre-Valdés
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
